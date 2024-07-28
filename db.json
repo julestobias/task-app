@@ -1,0 +1,39 @@
+{
+  "taskList": [
+    {
+      "id": "31b66634-a957-4ee9-bce1-e2433c9b94f8",
+      "taskName": "Prepare presentation slides",
+      "description": "Create slides for the project presentation. include key points and visuals.",
+      "dueDate": "2024-07-05",
+      "status": "inProgress"
+    },
+    {
+      "id": "a7f5614d-2126-4272-999a-35716b7392e1",
+      "taskName": "Update website footer",
+      "description": "Update website content with recent achievements and news.",
+      "dueDate": "2024-07-12",
+      "status": "pending"
+    },
+    {
+      "id": "1d576e18-2fc3-4595-839c-114d506311b9",
+      "taskName": "Prepare Project Proposal ",
+      "description": "Write and finalize the project proposal document for the upcoming conference.",
+      "dueDate": "2024-07-18",
+      "status": "pending"
+    },
+    {
+      "id": "43b088da-b819-4b83-bb41-0d03e4457d13",
+      "taskName": "Update website content",
+      "description": "Update website content with recent achievement and news.",
+      "dueDate": "2024-07-12",
+      "status": "completed"
+    },
+    {
+      "id": "b3549fc1-5d6b-4a77-a7b9-03e8d8ecd1ce",
+      "taskName": "Sample Task",
+      "description": "Hello World",
+      "dueDate": "2024-07-04",
+      "status": "cancelled"
+    }
+  ]
+}
